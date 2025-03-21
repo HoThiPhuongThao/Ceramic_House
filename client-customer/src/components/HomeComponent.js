@@ -99,7 +99,7 @@ class Home extends Component {
               <div class="imf-fluid"><img src={Anh1}/></div>
 							</div>
 							<h3>Nhanh chống &amp; Miễn phí vận chuyển</h3>
-							<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+							{/* <p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p> */}
 						</div>
 					</div>
 

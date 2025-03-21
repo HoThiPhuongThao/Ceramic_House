@@ -1,14 +1,11 @@
 import React, { Component } from 'react';
+import admin123 from "../dist/img/12.jpg"
 class Home extends Component {
   render() {
     return (
       <div className="align-center">
         <h2 className="text-center">ADMIN HOME</h2>
-        <img
-          src="http://cliparting.com/wp-content/uploads/2018/03/animated-emoticons-2018-13.gif"
-          width="800px"
-          height="600px"
-        />
+        <img src={admin123} alt="1" style={{width :'100px',height :'100px'}}/>
       </div>
     );
   }

@@ -14,8 +14,8 @@ class Inform extends Component {
 			<div class="col-lg-5">
 				<div class="intro-excerpt">
 					<h1>Sản Phẩm Gốm <span clsas="d-block">Nghệ Thuật & Thủ Công</span></h1>
-					<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
-					<p><a href="" class="btn btn-secondary me-2">Mua ngay</a><a href="#" class="btn btn-white-outline">Khám phá</a></p>
+					{/* <p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+					<p><a href="" class="btn btn-secondary me-2">Mua ngay</a><a href="#" class="btn btn-white-outline">Khám phá</a></p> */}
 				</div>
 			</div>
 			<div class="col-lg-7">
